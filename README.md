@@ -21,7 +21,7 @@ Moreover, an unsupervised model in the form of K-means clustering technique is u
 
 All models are tuned using cross validation and grid search to optimize for hyperparameters.
 
-## Project Files:
+## Project Files
 
 Data_Cleaning_Exploration.ipynb - Contains code used for initial data cleaning and exploration
 Logistic_Regression_Model.ipynb - Contains code used for predicting CVDs using Logistic Regression
